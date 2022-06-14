@@ -24,8 +24,6 @@ call plug#end()
 
 colorscheme peachpuff
 
-set guifont=JetBrainsMono\ NF
-
 nnoremap <C-f> :NERDTreeToggle<CR>
 nnoremap <C-n> :Telescope<CR>
 
