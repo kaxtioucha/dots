@@ -1,5 +1,7 @@
 # dots
 
+![](./img.png)
+
 ```zsh
 
 # Go into the home folder.
