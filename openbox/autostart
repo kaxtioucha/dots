@@ -1,0 +1,4 @@
+nitrogen --save --restore & disown
+bash ~/.config/polybar/launch.sh & disown
+st & disown
+

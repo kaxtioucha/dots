@@ -1,6 +1,6 @@
 # dots
 
-![](./img.png)
+![](img.png)
 
 ```zsh
 
